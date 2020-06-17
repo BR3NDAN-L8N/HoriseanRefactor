@@ -1,0 +1,17 @@
+
+
+HTML:
+* Navbar link for "Search Engine Optimization" connects to appropriate section.
+
+
+HTML & CSS:
+* <div> with class="header" changed to <header>, updated CSS selectors.
+* Classes benefit-lead, benefit-brand, and benefit-cost were changed to benefit-card. All had the same styling and didn't need different classes. All respective CSS selectors were updated, duplicates deleted. 
+* <div> with class="content", sub div's given class of content.card as they had same styling. Respective CSS selectors were updated, duplicates deleted. 
+* Line 63 <img> had a closing tag, now removed. 
+* The image under the navbar was loaded through CSS, I moved it into the HTML to make more sense.
+
+
+CSS:
+* 3 h3 selectors merged together. Had same styles. 
+* Changed order of CSS selectors to go in the order they appear in the HTML. Two selectors untouched are .float-left and .float-right as they seem to make more sense next to each other and I didn't see a way to accomplish that with them being in chronological order. 
