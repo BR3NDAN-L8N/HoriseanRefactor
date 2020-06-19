@@ -56,20 +56,20 @@ figure img.hero-image {
     background-position: center;
 }
 
-.hidden {
+.hidden-from-everyone {
     display: none;
 }
 
-article section p, aside section p {
+main article section p, main aside section p {
     font-size: 16px;
 }
 
-article section figure img.float-left {
+main article section figure img.float-left {
     float: left;
     margin-right: 25px;
 }
 
-article section figure img.float-right {
+main article section figure img.float-right {
     float: right;
     margin-left: 25px;
 }
