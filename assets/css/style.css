@@ -41,8 +41,15 @@ header nav {
     font-size: 20px;
 }
 
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline;
+}
+
 header nav a {
-    display: inline-block;
     margin-left: 25px;
     color: #ffffff;
     text-decoration: none;
@@ -124,8 +131,6 @@ main aside section.benefit-card img {
     margin: 10px auto;
     max-width: 150px;
 }
-
-
 
 footer {
     padding: 30px;
