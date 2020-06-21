@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">Hori<span class="seo">seo</span>n</h1>
+  <h1 align="center">Hori<span style="color:#d9dcd6;">seo</span>n</h1>
 </p>
 
 
