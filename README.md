@@ -13,6 +13,7 @@
 # Table of Contents
 
 * [About the Project](#about-the-project)
+    * [Finished Project Link](#finished-project)
     * [Project Screenshot](#project-screenshot)
     * [Assignment](#assignment)
 * [Usage](#usage)
@@ -24,6 +25,10 @@
 
 <!-- ABOUT THE PROJECT -->
 # About The Project
+
+## Finished Project
+
+Project Link: [https://br3ndan-l8n.github.io/HoriseanRefactor/](https://br3ndan-l8n.github.io/HoriseanRefactor/)
 
 ## Project Screenshot
 
@@ -60,8 +65,6 @@ None
 # Contact
 
 Brendan Leighton - BR3NDAN.L8N@gmail.com
-
-Project Link: [https://br3ndan-l8n.github.io/HoriseanRefactor/](https://br3ndan-l8n.github.io/HoriseanRefactor/)
 
 
 
